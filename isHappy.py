@@ -1,3 +1,6 @@
+# Author: Chinmai Managoli
+
+
 import sys as sys
 
 # Function to add squares of individual digits of a number
